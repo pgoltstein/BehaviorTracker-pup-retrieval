@@ -1,10 +1,10 @@
 ----------------------------------------------------------------------
 
-BehaviorTracker-pup-retieval
+# BehaviorTracker-pup-retieval
 
 
 ----------------------------------------------------------------------
--- Design
+## Design
 
 Steps before tracking
 1. Define arena outline rectangle
@@ -18,6 +18,9 @@ What should be tracked
 3. Hand comes in (pup placement)
 
 ----------------------------------------------------------------------
--- To Do
+## To Do
 
-1. 
+1. Add base UI holding options
+2. Update readme with install instructions
+3. Add tracking options
+4. Add general settings panel
